@@ -29,7 +29,7 @@ Prerequisites:
     
 Install the library on the Raspberry Pi with:
   
-    pip install git+https://github.com/orionrobots/Raspi_MotorHAT
+    pip install git+https://github.com/mvpsdvlpr/Raspi_MotorHAT
   
 To use a DC motor connected to M1:
 
@@ -47,7 +47,7 @@ To set it's direction:
   
 Directions are FORWARD, BACKWARD and RELEASE. Speed is a positive integer and varies from 0 to 255.
 
-Using a servo motor connected to channel 1, see the example under https://github.com/orionrobots/Raspi_MotorHAT/blob/master/Raspi_MotorHAT/ServoTest.py.
+Using a servo motor connected to channel 1, see the example under https://github.com/mvpsdvlpr/Raspi_MotorHAT/blob/master/Raspi_MotorHAT/ServoTest.py.
 
 ## Why it exists and accrediting Adafruit
 
